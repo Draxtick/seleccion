@@ -1,0 +1,40 @@
+com/globallogic/usuarios/repository/PhoneRepository.java
+ com.globallogic.usuarios.repository.PhoneRepository
+com/globallogic/usuarios/dto/PhoneRequestDTO.java
+ com.globallogic.usuarios.dto.PhoneRequestDTO
+ com.globallogic.usuarios.dto.PhoneRequestDTO$PhoneRequestDTOBuilder
+com/globallogic/usuarios/exceptions/DuplicateEmailException.java
+ com.globallogic.usuarios.exceptions.DuplicateEmailException
+com/globallogic/usuarios/utils/Constants.java
+ com.globallogic.usuarios.utils.Constants
+com/globallogic/usuarios/entities/Phone.java
+ com.globallogic.usuarios.entities.Phone
+ com.globallogic.usuarios.entities.Phone$PhoneBuilder
+com/globallogic/usuarios/controllers/UserController.java
+ com.globallogic.usuarios.controllers.UserController
+com/globallogic/usuarios/dto/ErrorDTO.java
+ com.globallogic.usuarios.dto.ErrorDTO
+ com.globallogic.usuarios.dto.ErrorDTO$ErrorDTOBuilder
+com/globallogic/usuarios/UsuariosApplication.java
+ com.globallogic.usuarios.UsuariosApplication
+com/globallogic/usuarios/entities/User.java
+ com.globallogic.usuarios.entities.User
+ com.globallogic.usuarios.entities.User$UserBuilder
+com/globallogic/usuarios/services/UserService.java
+ com.globallogic.usuarios.services.UserService
+com/globallogic/usuarios/services/UserServiceImpl.java
+ com.globallogic.usuarios.services.UserServiceImpl
+com/globallogic/usuarios/exceptions/ExceptionManager.java
+ com.globallogic.usuarios.exceptions.ExceptionManager
+com/globallogic/usuarios/dto/UserResponseDTO.java
+ com.globallogic.usuarios.dto.UserResponseDTO
+ com.globallogic.usuarios.dto.UserResponseDTO$UserResponseDTOBuilder
+com/globallogic/usuarios/security/JwtTokenUtil.java
+ com.globallogic.usuarios.security.JwtTokenUtil
+com/globallogic/usuarios/repository/UserRepository.java
+ com.globallogic.usuarios.repository.UserRepository
+com/globallogic/usuarios/exceptions/DuplicateUserException.java
+ com.globallogic.usuarios.exceptions.DuplicateUserException
+com/globallogic/usuarios/dto/UserRequestDTO.java
+ com.globallogic.usuarios.dto.UserRequestDTO
+ com.globallogic.usuarios.dto.UserRequestDTO$UserRequestDTOBuilder
